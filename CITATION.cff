@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: reinert-dhc
+message: "If you use this software, please cite it."
+type: software
+authors:
+  - family-names: Contributors
+    given-names: Reinert DHC
+repository-code: "https://github.com/example/reinert-dhc"
+license: MIT
+version: 0.1.0
+date-released: 2026-02-23
